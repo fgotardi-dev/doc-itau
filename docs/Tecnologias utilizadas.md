@@ -4,7 +4,7 @@ Tecnologias utilizadas
 
 2. Executei comandos em shell script para instalações de pacotes;
 
-3. O sistema operacional utilizado para executar essas ações foi o Debian 11;
+3. O sistema operacional utilizado para executar essas ações foi o Ubuntu 22.04;
 
 4. E para escrever os códigos e usei a IDE Visual Code;
 

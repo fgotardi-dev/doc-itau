@@ -1,5 +1,12 @@
 Instalação Prometheus e Grafana
 
+Acesso WEB PROMETHEUS:
+http://18.208.132.169:9090/
+
+Acesso WEB GRAFANA:
+http://18.208.132.169:3000/
+
+
 No servidor do kafka baixe os arquivos jmx e de configuração:
 wget https://repo1.maven.org/maven2/io/prometheus/jmx/jmx_prometheus_javaagent/0.19.0/jmx_prometheus_javaagent-0.19.0.jar
 https://github.com/prometheus/jmx_exporter/blob/main/example_configs/kafka-0-8-2.yml
